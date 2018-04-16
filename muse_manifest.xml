@@ -1,0 +1,322 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" ftp_hostname="ftp://190.113.0.209" ftp_rootfolder="/public_html" exportTarget="FTP" resolutions="1x" timestamp="1431712956195" iceMarkupVersion="2">
+  <folder name="css">
+    <file name="site_global.css" crc="4061189773"/>
+    <file name="master_a-p_gina-maestra.css" crc="4126342503" ref="inversoras:calentadores:mig:plasma:valvulas-y-boquillas:index:tig-y-arco-sumergido:mangueras:seguridad-industrial:oxicorte:abrasivos:makita:quienes-somos:productos:taladros:contacto:arco-manual:equipos-de-corte-automatico:maletas-oxicorte:accesorios-arco-manual:accesorios-mig:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="inversoras.css" crc="4235301401" ref="inversoras"/>
+    <file name="calentadores.css" crc="4192736532" ref="calentadores"/>
+    <file name="mig.css" crc="253739766" ref="mig"/>
+    <file name="plasma.css" crc="531978465" ref="plasma"/>
+    <file name="valvulas-y-boquillas.css" crc="285522471" ref="valvulas-y-boquillas"/>
+    <file name="index.css" crc="37456437" ref="index"/>
+    <file name="tig-y-arco-sumergido.css" crc="65279434" ref="tig-y-arco-sumergido"/>
+    <file name="mangueras.css" crc="4270071034" ref="mangueras"/>
+    <file name="seguridad-industrial.css" crc="4169163243" ref="seguridad-industrial"/>
+    <file name="oxicorte.css" crc="3782331245" ref="oxicorte"/>
+    <file name="abrasivos.css" crc="461723855" ref="abrasivos"/>
+    <file name="makita.css" crc="3980742523" ref="makita"/>
+    <file name="quienes-somos.css" crc="4245877524" ref="quienes-somos"/>
+    <file name="productos.css" crc="4137444727" ref="productos"/>
+    <file name="taladros.css" crc="151285446" ref="taladros"/>
+    <file name="contacto.css" crc="4186214947" ref="contacto"/>
+    <file name="arco-manual.css" crc="4227584796" ref="arco-manual"/>
+    <file name="equipos-de-corte-automatico.css" crc="372280379" ref="equipos-de-corte-automatico"/>
+    <file name="maletas-oxicorte.css" crc="276077228" ref="maletas-oxicorte"/>
+    <file name="accesorios-arco-manual.css" crc="3885739624" ref="accesorios-arco-manual"/>
+    <file name="accesorios-mig.css" crc="4195591309" ref="accesorios-mig"/>
+    <file name="cables-de-soldar-y-electrodos.css" crc="220074269" ref="cables-de-soldar-y-electrodos"/>
+    <file name="reguladores-y-flujometros.css" crc="238839924" ref="reguladores-y-flujometros"/>
+  </folder>
+  <folder name="assets">
+    <file name="hmd150.pdf" crc="3895109010" mt="1376456736000"/>
+    <file name="hmd115.pdf" crc="3987768031" mt="1376456736000"/>
+    <file name="hmd904.pdf" crc="3882416383" mt="1376456736000"/>
+    <file name="hmd914.pdf" crc="278558356" mt="1376456736000"/>
+    <file name="hmd915.pdf" crc="492057864" mt="1376456736000"/>
+    <file name="youblisher.com-605387-catalogo_herramientas_2013.pdf" crc="485610308" mt="1390002205000"/>
+    <file name="2014-punch-flyer-230v-spanish.pdf" crc="68096097" mt="1390314368000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:quienes-somos:productos:contacto:arco-manual:inversoras:mig:plasma:tig-y-arco-sumergido:oxicorte:abrasivos:makita:seguridad-industrial:taladros:calentadores:valvulas-y-boquillas:mangueras:equipos-de-corte-automatico:maletas-oxicorte:accesorios-arco-manual:accesorios-mig:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="museutils.js" crc="521960461" ref="index:quienes-somos:productos:contacto:arco-manual:inversoras:mig:plasma:tig-y-arco-sumergido:oxicorte:abrasivos:makita:seguridad-industrial:taladros:calentadores:valvulas-y-boquillas:mangueras:equipos-de-corte-automatico:maletas-oxicorte:accesorios-arco-manual:accesorios-mig:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="pie.js" crc="3827607177" ref="index:quienes-somos:productos:contacto:arco-manual:inversoras:mig:plasma:tig-y-arco-sumergido:oxicorte:abrasivos:makita:seguridad-industrial:taladros:calentadores:valvulas-y-boquillas:mangueras:equipos-de-corte-automatico:maletas-oxicorte:accesorios-arco-manual:accesorios-mig:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:quienes-somos:productos:contacto:arco-manual:inversoras:mig:plasma:tig-y-arco-sumergido:oxicorte:abrasivos:makita:seguridad-industrial:taladros:calentadores:valvulas-y-boquillas:mangueras:equipos-de-corte-automatico:maletas-oxicorte:accesorios-arco-manual:accesorios-mig:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+    <file name="webpro.js" crc="220831917" ref="index:contacto:arco-manual:inversoras:mig:plasma:calentadores:valvulas-y-boquillas:mangueras:tig-y-arco-sumergido:abrasivos:makita:seguridad-industrial:equipos-de-corte-automatico:maletas-oxicorte:accesorios-mig:accesorios-arco-manual:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="index:arco-manual:inversoras:mig:plasma:calentadores:valvulas-y-boquillas:mangueras:tig-y-arco-sumergido:abrasivos:makita:seguridad-industrial:equipos-de-corte-automatico:maletas-oxicorte:accesorios-mig:accesorios-arco-manual:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="index:arco-manual:inversoras:mig:plasma:calentadores:valvulas-y-boquillas:mangueras:tig-y-arco-sumergido:abrasivos:makita:seguridad-industrial:equipos-de-corte-automatico:maletas-oxicorte:accesorios-mig:accesorios-arco-manual:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="touchswipe.js" crc="325405309" ref="index:arco-manual:inversoras:mig:plasma:calentadores:valvulas-y-boquillas:mangueras:tig-y-arco-sumergido:abrasivos:makita:seguridad-industrial:equipos-de-corte-automatico:maletas-oxicorte:accesorios-mig:accesorios-arco-manual:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="form_check.php" crc="218543696" ref="contacto"/>
+    <file name="form_throttle.php" crc="3988545917" ref="contacto"/>
+    <file name="form-u2667.php" crc="278591244" ref="contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:quienes-somos:productos:contacto:arco-manual:inversoras:mig:plasma:tig-y-arco-sumergido:oxicorte:abrasivos:makita:seguridad-industrial:taladros:equipos-de-corte-automatico:calentadores:reguladores-y-flujometros:valvulas-y-boquillas:mangueras:maletas-oxicorte:accesorios-arco-manual:accesorios-mig:cables-de-soldar-y-electrodos"/>
+    <file name="form_process.php" crc="4264751530" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="versal fondo.jpg" crc="3837107199" ref="index:quienes-somos:productos:contacto:arco-manual:inversoras:mig:plasma:tig-y-arco-sumergido:oxicorte:abrasivos:makita:seguridad-industrial:taladros:calentadores:valvulas-y-boquillas:mangueras:equipos-de-corte-automatico:maletas-oxicorte:accesorios-arco-manual:accesorios-mig:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="encabezado versl_01.jpg" crc="46913640" ref="index:quienes-somos:productos:contacto:arco-manual:inversoras:mig:plasma:tig-y-arco-sumergido:oxicorte:abrasivos:makita:seguridad-industrial:taladros:calentadores:valvulas-y-boquillas:mangueras:equipos-de-corte-automatico:maletas-oxicorte:accesorios-arco-manual:accesorios-mig:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="escudo_web_ok.png" crc="364725827" ref="index:quienes-somos:productos:contacto:arco-manual:inversoras:mig:plasma:tig-y-arco-sumergido:oxicorte:abrasivos:makita:seguridad-industrial:taladros:calentadores:valvulas-y-boquillas:mangueras:equipos-de-corte-automatico:maletas-oxicorte:accesorios-arco-manual:accesorios-mig:cables-de-soldar-y-electrodos:reguladores-y-flujometros"/>
+    <file name="u134-grad.png" crc="216893649" ref="index"/>
+    <file name="u134-r-grad.png" crc="97197710" ref="index"/>
+    <file name="u134-m-grad.png" crc="3968730313" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="index"/>
+    <file name="arco manual-u3029-a-fr.jpg" crc="3997534020" ref="index"/>
+    <file name="inversoras-u3031-a-fr.jpg" crc="3983301247" ref="index"/>
+    <file name="arco manual.jpg" crc="211807515" ref="index"/>
+    <file name="escudo_web_ok2.png" crc="215965628" ref="index"/>
+    <file name="u3185.png" crc="3848695193" ref="index"/>
+    <file name="u3185-r.png" crc="4269536302" ref="index"/>
+    <file name="u3185-m.png" crc="3866693049" ref="index"/>
+    <file name="inversoras.jpg" crc="3968895615" ref="index"/>
+    <file name="u3205.png" crc="3848695193" ref="index"/>
+    <file name="u3205-r.png" crc="4269536302" ref="index"/>
+    <file name="u3205-m.png" crc="3866693049" ref="index"/>
+    <file name="mig.jpg" crc="4025539604" ref="index"/>
+    <file name="u3209.png" crc="3848695193" ref="index"/>
+    <file name="u3209-r.png" crc="4269536302" ref="index"/>
+    <file name="u3209-m.png" crc="3866693049" ref="index"/>
+    <file name="tig.jpg" crc="3779793200" ref="index"/>
+    <file name="u3122.png" crc="3848695193" ref="index"/>
+    <file name="u3122-r.png" crc="4269536302" ref="index"/>
+    <file name="u3122-m.png" crc="3866693049" ref="index"/>
+    <file name="inverter_azul.png" crc="129247540" ref="index"/>
+    <file name="blumig250.png" crc="431042112" ref="index"/>
+    <file name="atomig313_azul.png" crc="365673524" ref="index"/>
+    <file name="hugen.png" crc="4260570003" ref="index:taladros"/>
+    <file name="resturant-layout--c.png" crc="4020763840" ref="index"/>
+    <file name="taladro_usa.png" crc="346122185" ref="index"/>
+    <file name="u2674-17.png" crc="4224475363" ref="contacto"/>
+    <file name="u2674-17-r.png" crc="255424825" ref="contacto"/>
+    <file name="u2674-17-m.png" crc="3944517174" ref="contacto"/>
+    <file name="u2674-17-fs.png" crc="4103966359" ref="contacto"/>
+    <file name="bluweld 255.jpg" crc="4107012842" ref="arco-manual"/>
+    <file name="blueweld255.jpg" crc="449973506" ref="arco-manual"/>
+    <file name="bluweld 265.jpg" crc="143626086" ref="arco-manual"/>
+    <file name="blueweld265.jpg" crc="3988400168" ref="arco-manual"/>
+    <file name="bluweld 305.jpg" crc="3897952830" ref="arco-manual"/>
+    <file name="blueweld305t.jpg" crc="3969272513" ref="arco-manual"/>
+    <file name="bluweld 283.jpg" crc="4194530249" ref="arco-manual"/>
+    <file name="blueweld283.jpg" crc="3813102190" ref="arco-manual"/>
+    <file name="bluweld 433 copia.jpg" crc="4058686576" ref="arco-manual"/>
+    <file name="blueweld433.jpg" crc="484803876" ref="arco-manual"/>
+    <file name="blutech 160c.jpg" crc="4033146867" ref="inversoras"/>
+    <file name="blutech160c.jpg" crc="156675967" ref="inversoras"/>
+    <file name="blutech 190c.jpg" crc="4005612810" ref="inversoras"/>
+    <file name="blutech190.jpg" crc="3895264137" ref="inversoras"/>
+    <file name="230hf.jpg" crc="3881917259" ref="inversoras"/>
+    <file name="blutech230.jpg" crc="3969299466" ref="inversoras"/>
+    <file name="zx7-140.jpg" crc="4124048827" ref="inversoras"/>
+    <file name="tabla zx160.jpg" crc="338513253" ref="inversoras"/>
+    <file name="zx200.jpg" crc="3936074247" ref="inversoras"/>
+    <file name="tabla zx200.jpg" crc="4022641249" ref="inversoras"/>
+    <file name="zx315 copia.jpg" crc="3906994853" ref="inversoras"/>
+    <file name="tabla zx315.jpg" crc="4070134559" ref="inversoras"/>
+    <file name="zx315.jpg" crc="4286916628" ref="inversoras"/>
+    <file name="tabla zx400.jpg" crc="4238000283" ref="inversoras"/>
+    <file name="tabla zx400vrd.jpg" crc="4030411236" ref="inversoras"/>
+    <file name="tabla zx500vrd.jpg" crc="4066280765" ref="inversoras"/>
+    <file name="ws7 200.jpg" crc="3914133925" ref="inversoras"/>
+    <file name="tabla ws7200.jpg" crc="16553571" ref="inversoras"/>
+    <file name="wse 200.jpg" crc="33651251" ref="inversoras"/>
+    <file name="tabla wse 200.jpg" crc="4085607076" ref="inversoras"/>
+    <file name="blumig 210.jpg" crc="3874559451" ref="mig"/>
+    <file name="blumig210.jpg" crc="31955438" ref="mig"/>
+    <file name="blumig 280.jpg" crc="466470996" ref="mig"/>
+    <file name="blumig280.jpg" crc="439602481" ref="mig"/>
+    <file name="blumig 250 scont.jpg" crc="15902124" ref="mig"/>
+    <file name="blumig250.jpg" crc="260363748" ref="mig"/>
+    <file name="blumig410ok.jpg" crc="4108542124" ref="mig"/>
+    <file name="blumig410.jpg" crc="4248578638" ref="mig"/>
+    <file name="450.jpg" crc="3806088805" ref="mig"/>
+    <file name="blumig450jpg.jpg" crc="306359687" ref="mig"/>
+    <file name="420.jpg" crc="3951018307" ref="mig"/>
+    <file name="blumig413.jpg" crc="3894483734" ref="mig"/>
+    <file name="cut-40d.jpg" crc="3849557751" ref="plasma"/>
+    <file name="lg-40d.jpg" crc="3881172279" ref="plasma"/>
+    <file name="lg-70d.jpg" crc="267708955" ref="plasma"/>
+    <file name="lg-70d2.jpg" crc="4275327484" ref="plasma"/>
+    <file name="lg-120d.jpg" crc="488205897" ref="plasma"/>
+    <file name="lg-120d2.jpg" crc="4189253591" ref="plasma"/>
+    <file name="hcw23p.jpg" crc="4139371610" ref="maletas-oxicorte"/>
+    <file name="u4455-4.png" crc="3953959047" ref="taladros"/>
+    <file name="150.jpg" crc="384096259" ref="taladros"/>
+    <file name="115.jpg" crc="3801466104" ref="taladros"/>
+    <file name="904.jpg" crc="97808271" ref="taladros"/>
+    <file name="914.jpg" crc="4232859829" ref="taladros"/>
+    <file name="915.jpg" crc="126113083" ref="taladros"/>
+    <file name="u4448-6.png" crc="144760028" ref="taladros"/>
+    <file name="u4451-6.png" crc="4218478440" ref="taladros"/>
+    <file name="u4452-4.png" crc="499020778" ref="taladros"/>
+    <file name="u4453-4.png" crc="398402821" ref="taladros"/>
+    <file name="u4454-4.png" crc="506190824" ref="taladros"/>
+    <file name="hcw34p.jpg" crc="330129342" ref="maletas-oxicorte"/>
+    <file name="62-3f.jpg" crc="4118428397" ref="maletas-oxicorte"/>
+    <file name="wss194.jpg" crc="4018946213" ref="maletas-oxicorte"/>
+    <file name="he 505.jpg" crc="396943027" ref="calentadores"/>
+    <file name="he 505-2.jpg" crc="3949348693" ref="calentadores"/>
+    <file name="ht507.jpg" crc="4136196362" ref="calentadores"/>
+    <file name="tuerca 959.jpg" crc="435712911" ref="calentadores"/>
+    <file name="niple.jpg" crc="268869634" ref="calentadores"/>
+    <file name="valvulas.png" crc="4233418494" ref="valvulas-y-boquillas"/>
+    <file name="boquilla.jpg" crc="3789887525" ref="valvulas-y-boquillas"/>
+    <file name="boquilla koike.jpg" crc="266647084" ref="valvulas-y-boquillas"/>
+    <file name="manguera paralela.jpg" crc="171832977" ref="mangueras"/>
+    <file name="manguera simple.jpg" crc="3843543278" ref="mangueras"/>
+    <file name="manguera aire.jpg" crc="4108960128" ref="mangueras"/>
+    <file name="chispero.jpg" crc="385872938" ref="mangueras"/>
+    <file name="piedra chispero.jpg" crc="243830281" ref="mangueras"/>
+    <file name="ws7-200d.jpg" crc="3948233512" ref="tig-y-arco-sumergido"/>
+    <file name="ws7-200dtabla.jpg" crc="4033111682" ref="tig-y-arco-sumergido"/>
+    <file name="wse-200d.jpg" crc="287219475" ref="tig-y-arco-sumergido"/>
+    <file name="wse 200dtabla.jpg" crc="487205319" ref="tig-y-arco-sumergido"/>
+    <file name="mz-1250.jpg" crc="3813980285" ref="tig-y-arco-sumergido"/>
+    <file name="mz-1250_tabla.jpg" crc="276086973" ref="tig-y-arco-sumergido"/>
+    <file name="disco corte klinspor foto.jpg" crc="387462771" ref="abrasivos"/>
+    <file name="disco corte klinspor.jpg" crc="143661142" ref="abrasivos"/>
+    <file name="disco_corte_metal_duroflex copia.jpg" crc="4167201025" ref="abrasivos"/>
+    <file name="duroflex ficha.jpg" crc="310760556" ref="abrasivos"/>
+    <file name="klins_24extra.jpg" crc="226600227" ref="abrasivos"/>
+    <file name="desbaste klinspor_tabla.jpg" crc="4046625142" ref="abrasivos"/>
+    <file name="disco_desbaste_duroflex.jpg" crc="489557129" ref="abrasivos"/>
+    <file name="disco desbaste duroflex tabla.jpg" crc="4101995400" ref="abrasivos"/>
+    <file name="9557pb.jpg" crc="485809087" ref="makita"/>
+    <file name="ga7020.jpg" crc="4051071920" ref="makita"/>
+    <file name="ga9020.jpg" crc="314203025" ref="makita"/>
+    <file name="tronzadora2420.jpg" crc="239060473" ref="makita"/>
+    <file name="catalogoherramientasmakita.jpg" crc="298656202" ref="makita"/>
+    <file name="gte nitrilo.jpg" crc="511691590" ref="seguridad-industrial"/>
+    <file name="gte pvc rojo.png" crc="355762384" ref="seguridad-industrial"/>
+    <file name="gte latex albañil.jpg" crc="464212074" ref="seguridad-industrial"/>
+    <file name="guante_de_hilo_pigmentado.png" crc="3774742971" ref="seguridad-industrial"/>
+    <file name="gte cabritilla.png" crc="310510241" ref="seguridad-industrial"/>
+    <file name="gte kevlar azul.png" crc="389687517" ref="seguridad-industrial"/>
+    <file name="gte rojo soldaor.png" crc="4152626218" ref="seguridad-industrial"/>
+    <file name="gte descarne.jpg" crc="361493789" ref="seguridad-industrial"/>
+    <file name="sold kevlar amarillo copia.jpg" crc="4132316438" ref="seguridad-industrial"/>
+    <file name="manguillas_soldador.jpg" crc="4186314205" ref="seguridad-industrial"/>
+    <file name="polainas cuero soldador.jpg" crc="116080175" ref="seguridad-industrial"/>
+    <file name="chaqueta_soldador_cuero.jpg" crc="4132902018" ref="seguridad-industrial"/>
+    <file name="pantalon_soldador.jpg" crc="4009649443" ref="seguridad-industrial"/>
+    <file name="coleto descarne ok.jpg" crc="4229285848" ref="seguridad-industrial"/>
+    <file name="coleto_descarne.jpg" crc="67782995" ref="seguridad-industrial"/>
+    <file name="pantalon_soldador_descarne.jpg" crc="3760946168" ref="seguridad-industrial"/>
+    <file name="chaqueta_descarne_natural.jpg" crc="391748103" ref="seguridad-industrial"/>
+    <file name="arnes paracid 3 argollas.jpg" crc="209203127" ref="seguridad-industrial"/>
+    <file name="estrobo doble gancho.jpg" crc="213873194" ref="seguridad-industrial"/>
+    <file name="estrobo_perlon.jpg" crc="4276491845" ref="seguridad-industrial"/>
+    <file name="estrobo_cinta.jpg" crc="4171414976" ref="seguridad-industrial"/>
+    <file name="faja lumbar.jpg" crc="516647046" ref="seguridad-industrial"/>
+    <file name="mascara soldador.jpg" crc="251534566" ref="seguridad-industrial"/>
+    <file name="vidrio.jpg" crc="4209757881" ref="seguridad-industrial"/>
+    <file name="lente de seguridad spy claro.jpg" crc="368523895" ref="seguridad-industrial"/>
+    <file name="lente oscuro.jpg" crc="3846466836" ref="seguridad-industrial"/>
+    <file name="casco de seguridad.jpg" crc="267048671" ref="seguridad-industrial"/>
+    <file name="barbiquejo.jpg" crc="4273980663" ref="seguridad-industrial"/>
+    <file name="casquete porta visoor.jpg" crc="3782175856" ref="seguridad-industrial"/>
+    <file name="visorpolicarbonato.jpg" crc="3759621843" ref="seguridad-industrial"/>
+    <file name="adaptador alum porta visor.jpg" crc="425049948" ref="seguridad-industrial"/>
+    <file name="mascarilla desechable.jpg" crc="3771915714" ref="seguridad-industrial"/>
+    <file name="tapon de oidos.jpg" crc="3906196188" ref="seguridad-industrial"/>
+    <file name="tapon desechables.jpg" crc="249636355" ref="seguridad-industrial"/>
+    <file name="overol azul.jpg" crc="3895768082" ref="seguridad-industrial"/>
+    <file name="buzo_desechable.jpg" crc="164926235" ref="seguridad-industrial"/>
+    <file name="chaleco-geologo-poplin.jpg" crc="3767368588" ref="seguridad-industrial"/>
+    <file name="chaleco-reflectante.jpg" crc="3762025711" ref="seguridad-industrial"/>
+    <file name="fondo versal_ok 2.jpg" crc="295379323" ref="productos"/>
+    <file name="tungsteno.jpg" crc="258020231" ref="tig-y-arco-sumergido"/>
+    <file name="papel soluble.jpg" crc="4092099820" ref="tig-y-arco-sumergido"/>
+    <file name="cibta soluble.jpg" crc="4281511321" ref="tig-y-arco-sumergido"/>
+    <file name="decapante.jpg" crc="528537194" ref="tig-y-arco-sumergido"/>
+    <file name="mascara jacksonhsl2.jpg" crc="470889263" ref="seguridad-industrial"/>
+    <file name="lente nemesis clear.jpg" crc="300733077" ref="seguridad-industrial"/>
+    <file name="nemesis smoke.jpg" crc="3889151716" ref="seguridad-industrial"/>
+    <file name="nemesis int out.jpg" crc="311300181" ref="seguridad-industrial"/>
+    <file name="nemesis oxicorte.jpg" crc="337207859" ref="seguridad-industrial"/>
+    <file name="careta facial monogoggle.jpg" crc="199810245" ref="seguridad-industrial"/>
+    <file name="antiparra soldadura 30212119.jpg" crc="4186493094" ref="seguridad-industrial"/>
+    <file name="30212120.jpg" crc="387522524" ref="seguridad-industrial"/>
+    <file name="30212131.jpg" crc="506844541" ref="seguridad-industrial"/>
+    <file name="30196053 tapon.jpg" crc="4120030647" ref="seguridad-industrial"/>
+    <file name="30196054 tapon.jpg" crc="325835893" ref="seguridad-industrial"/>
+    <file name="30196049 respirador.jpg" crc="4089683963" ref="seguridad-industrial"/>
+    <file name="mig200b.jpg" crc="120772527" ref="mig"/>
+    <file name="mig-200 tabla.jpg" crc="3966447460" ref="mig"/>
+    <file name="mig315.jpg" crc="3841253582" ref="mig"/>
+    <file name="mig-315 tabla.jpg" crc="4210392059" ref="mig"/>
+    <file name="hk-12-ii-x-large.jpg" crc="3956309675" ref="equipos-de-corte-automatico"/>
+    <file name="corta tubo automatico.jpg" crc="3821919240" ref="equipos-de-corte-automatico"/>
+    <file name="corta tubo.jpg" crc="211627239" ref="equipos-de-corte-automatico"/>
+    <file name="cnc.jpg" crc="3876410474" ref="equipos-de-corte-automatico"/>
+    <file name="cnc2.jpg" crc="4214021992" ref="equipos-de-corte-automatico"/>
+    <file name="cnc tabla.jpg" crc="89491119" ref="equipos-de-corte-automatico"/>
+    <file name="seguridad industrial banner.jpg" crc="431564913" ref="index"/>
+    <file name="taladros.jpg" crc="414835657" ref="index"/>
+    <file name="oxicorte.jpg" crc="4218993050" ref="index"/>
+    <file name="makita.jpg" crc="208606337" ref="index"/>
+    <file name="abrasivos.jpg" crc="4257667772" ref="index"/>
+    <file name="punzonadora.jpg" crc="86744563" ref="index:taladros"/>
+    <file name="nuevo.png" crc="249648913" ref="index"/>
+    <file name="u9202-4.png" crc="69132668" ref="taladros"/>
+    <file name="oxicorte foto.jpg" crc="451793632" ref="oxicorte"/>
+    <file name="berard400.jpg" crc="486740917" ref="accesorios-mig"/>
+    <file name="binzel15_ok.jpg" crc="4153771335" ref="accesorios-mig"/>
+    <file name="binzel25_ok.jpg" crc="4157848106" ref="accesorios-mig"/>
+    <file name="binzel500_ok.jpg" crc="324302597" ref="accesorios-mig"/>
+    <file name="binzel36_ok.jpg" crc="4059139783" ref="accesorios-mig"/>
+    <file name="tweco_ok.jpg" crc="498252596" ref="accesorios-mig"/>
+    <file name="tregaskiss_ok.jpg" crc="4201012272" ref="accesorios-mig"/>
+    <file name="prensa.jpg" crc="151889939" ref="accesorios-arco-manual"/>
+    <file name="concector tweco.jpg" crc="129659552" ref="accesorios-arco-manual"/>
+    <file name="conector macho volante.jpg" crc="141372346" ref="accesorios-arco-manual"/>
+    <file name="conector macho volante 10-25.jpg" crc="305620806" ref="accesorios-arco-manual"/>
+    <file name="conector hembra panel.jpg" crc="3855512627" ref="accesorios-arco-manual"/>
+    <file name="prensa bronce.jpg" crc="4075476401" ref="accesorios-arco-manual"/>
+    <file name="terminal cable.jpg" crc="3993873381" ref="accesorios-arco-manual"/>
+    <file name="torchador.jpg" crc="4102536823" ref="accesorios-arco-manual"/>
+    <file name="horno portatil.jpg" crc="169404068" ref="accesorios-arco-manual"/>
+    <file name="horno para sldadura.jpg" crc="3775571546" ref="accesorios-arco-manual"/>
+    <file name="carbones.jpg" crc="352679118" ref="accesorios-arco-manual"/>
+    <file name="tiza.jpg" crc="3768099724" ref="accesorios-arco-manual"/>
+    <file name="lapiz de temperatura.jpg" crc="4089973787" ref="accesorios-arco-manual"/>
+    <file name="cables para soldar.jpg" crc="415234329" ref="cables-de-soldar-y-electrodos"/>
+    <file name="alambre tubular.jpg" crc="427148110" ref="cables-de-soldar-y-electrodos"/>
+    <file name="alambre mig.jpg" crc="115896305" ref="cables-de-soldar-y-electrodos"/>
+    <file name="electrodos.jpg" crc="4119493389" ref="cables-de-soldar-y-electrodos"/>
+    <file name="tobera tweco.jpg" crc="3986937118" ref="accesorios-mig"/>
+    <file name="liners.jpg" crc="69413750" ref="accesorios-mig"/>
+    <file name="difusor de gas.jpg" crc="3938213416" ref="accesorios-mig"/>
+    <file name="cuellos conductores.jpg" crc="4152378466" ref="accesorios-mig"/>
+    <file name="cpo tobera.jpg" crc="4036345966" ref="accesorios-mig"/>
+    <file name="punta tobera.jpg" crc="386147545" ref="accesorios-mig"/>
+    <file name="tobera tregaskiss.jpg" crc="42955166" ref="accesorios-mig"/>
+    <file name="difusor tregaskiss.jpg" crc="182786654" ref="accesorios-mig"/>
+    <file name="boquilla tregaskiss.jpg" crc="332065103" ref="accesorios-mig"/>
+    <file name="portaelectrodo jackson300.jpg" crc="4288992365" ref="accesorios-arco-manual"/>
+    <file name="porta_electrodos_500.jpg" crc="51991388" ref="accesorios-arco-manual"/>
+    <file name="boquilla2.jpg" crc="3998757053" ref="accesorios-mig"/>
+    <file name="morris rojo.jpg" crc="22227614" ref="reguladores-y-flujometros"/>
+  </folder>
+  <file name="index.html" crc="4071891504" mt="1431712921666" redirect="true"/>
+  <file name="quienes-somos.html" crc="423314695" mt="1431712921666" redirect="true"/>
+  <file name="productos.html" crc="3862037539" mt="1431712921666" redirect="true"/>
+  <file name="contacto.html" crc="3980638491" mt="1431712921666" redirect="true"/>
+  <file name="arco-manual.html" crc="348085242" mt="1431712921666" redirect="true"/>
+  <file name="inversoras.html" crc="495216237" mt="1431712921666" redirect="true"/>
+  <file name="mig.html" crc="3981103976" mt="1431712921666" redirect="true"/>
+  <file name="plasma.html" crc="4089177339" mt="1431712921666" redirect="true"/>
+  <file name="tig-y-arco-sumergido.html" crc="4157819176" mt="1431712921666" redirect="true"/>
+  <file name="oxicorte.html" crc="370129335" mt="1431712921666" redirect="true"/>
+  <file name="abrasivos.html" crc="4002775203" mt="1431712921666" redirect="true"/>
+  <file name="makita.html" crc="4183456579" mt="1431712921666" redirect="true"/>
+  <file name="seguridad-industrial.html" crc="2852246" mt="1431712921666" redirect="true"/>
+  <file name="taladros.html" crc="4155136305" mt="1431712921666" redirect="true"/>
+  <file name="calentadores.html" crc="3770954097" mt="1431712921666" redirect="true"/>
+  <file name="valvulas-y-boquillas.html" crc="3845978497" mt="1431712921666" redirect="true"/>
+  <file name="mangueras.html" crc="83149748" mt="1431712921666" redirect="true"/>
+  <file name="equipos-de-corte-automatico.html" crc="3860793689" mt="1431712921666" redirect="true"/>
+  <file name="maletas-oxicorte.html" crc="4004731014" mt="1431712921666" redirect="true"/>
+  <file name="accesorios-arco-manual.html" crc="4033746115" mt="1431712921666" redirect="true"/>
+  <file name="accesorios-mig.html" crc="513190229" mt="1431712921666" redirect="true"/>
+  <file name="cables-de-soldar-y-electrodos.html" crc="449342441" mt="1431712921666" redirect="true"/>
+  <file name="reguladores-y-flujometros.html" crc="4022484594" mt="1431712921666" redirect="true"/>
+</manifest>
